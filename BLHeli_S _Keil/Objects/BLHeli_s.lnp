@@ -1,0 +1,3 @@
+".\Objects\BLHeli_S.obj" 
+TO ".\Objects\BLHeli_s" 
+PRINT(".\Listings\BLHeli_s.m51") RAMSIZE(256) 
